@@ -4,7 +4,7 @@ import "./DownloadCVButton.css";
 export default function DownloadCVButton() {
   return (
     <a
-      href="./CV_AYMAN_FARAJ_MOHAMMED.pdf"
+      href="./Blue Simple Professional CV Resume.pdf"
       download
       style={{ textDecoration: "none" }}
     >
